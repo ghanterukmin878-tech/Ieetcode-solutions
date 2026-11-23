@@ -17,3 +17,5 @@
 23/11/2026 | Move Zeroes | Arrays & Strings | Easy | Accepted | —
 
 23/11/2026 | Valid Parentheses | Stacks | Easy | Accepted | —
+
+| 09 | Reverse Linked List | Linked Lists | Accepted | 23/11/2026 |
