@@ -1,15 +1,38 @@
 
 # LeetCode Solutions
 
-**Name:** Your Name
+**Name:** Rukmin Ghante
 
-**Roll Number:** Your Roll Number
+**Roll Number:** R25EF221
 
-Personal LeetCode practice log — part of B25GE0101 portfolio
+**GitHub:** [ghanterukmin878-tech](https://github.com/ghanterukmin878-tech)
 
-## Topics
+Personal LeetCode practice log — part of B25GE0101 portfolio.
 
-1. Arrays & Strings
-2. Basic Algorithms
-3. Stacks
-4. Linked Lists
+## Table of Contents
+
+1. [Arrays & Strings](./array-strings/)
+2. [Basic Algorithms](./basic-algorithms/)
+3. [Stacks](./array-strings/Stacks/)
+4. [Linked Lists](./linked-lists/)
+
+## About This Repository
+
+This repository contains my solutions to selected LeetCode problems implemented using C programming.
+
+Each problem includes:
+
+- C source code
+- Local test cases
+- Approach and explanation
+- Time and space complexity analysis
+- LeetCode Accepted submission screenshot
+
+## Languages Used
+
+- C Programming
+- Markdown
+
+## Purpose
+
+To strengthen problem-solving skills, practise data structures and algorithms, and maintain a structured coding portfolio.
